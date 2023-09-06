@@ -1,7 +1,7 @@
 # Python Analysis: Gun Violence in the United States
 
 ## Background:
-Gun violence has steadily increased over the last decade. So much so that doctors and public health officials have begun to call the rising number of people killed or hurt by guns in recent years as an epidemic. The data is a result of incidents of violence committed with firearms, such as handguns, shotguns, or semi-automatic rifles, collected from over 7,500 law enforcement, media, government and commerical sources.
+Gun violence has steadily increased over the last decade. So much so that doctors and public health officials have begun to call the rising number of people killed or hurt by guns in recent years an epidemic. The data is a result of incidents of violence committed with firearms, such as handguns, shotguns, or semi-automatic rifles, collected from over 7,500 law enforcement, media, government and commerical sources.
 ## Goal:
 Perform compreshensive analysis of data relating to incidents related to gun violence to derive insights.
 ## Key Questions:
