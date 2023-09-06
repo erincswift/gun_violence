@@ -31,7 +31,6 @@ Perform compreshensive analysis of data relating to incidents related to gun vio
 ## File Summary
 * 03 Scripts: Contains all Python scripts used during project
 * 04 Analysis: All visualizations created for review
-* 05 Sent to Client: Final Analysis Report to summarize project
 
 ## Data Source
 https://www.kaggle.com/datasets/jameslko/gun-violence-data
