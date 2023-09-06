@@ -26,7 +26,7 @@ Perform compreshensive analysis of data relating to incidents related to gun vio
 * Use clustering anaylsis with k-means
 * Merge Federal Reserve unemployment rate with dataset
 * Run time series analysis
-* Create analytical dashboard in Tableau
+* Create analytical dashboard in Tableau: https://public.tableau.com/app/profile/erin.swift/viz/GunViolenceinUSv1
 
 ## File Summary
 * 03 Scripts: Contains all Python scripts used during project
